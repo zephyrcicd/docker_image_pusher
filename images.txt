@@ -7,4 +7,4 @@ xream/sub-store:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 mongo:7.0.23-jammy
---platform=linux/amd64 zephyrcicd/hik-attendance-monitoring:0.2.0
+--platform=linux/amd64 zephyrcicd/hik-attendance-monitoring:0.3.0
